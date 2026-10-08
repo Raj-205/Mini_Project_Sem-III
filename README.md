@@ -26,8 +26,6 @@ A clean full-stack expense management application for students. The project help
 - [Project Documentation](#project-documentation)
 - [Research Direction](#research-direction)
 - [Team](#team)
-- [Institute](#institute)
-- [Project Links](#project-links)
 - [References](#references)
 - [Future Scope](#future-scope)
 - [Conclusion](#conclusion)
@@ -441,21 +439,6 @@ The project can be used as a starting point for studying personal-finance behavi
 | Backend developer | Add name here if applicable |
 | Frontend developer | Add name here if applicable |
 | Project guide | Add guide name here if applicable |
-
-## Institute
-
-- **Institute:** Add your college/institute name.
-- **Course:** B.Tech.
-- **Academic year:** Add academic year.
-- **Department:** Add department name.
-
-## Project Links
-
-- **GitHub repository:** Add repository URL.
-- **Live application:** Add deployment URL if available.
-- **API:** Add deployed backend URL if available.
-- **Demo video:** Add your own demonstration video if available.
-
 ## References
 
 - Official React documentation.
